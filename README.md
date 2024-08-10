@@ -1,2 +1,2 @@
 # Responsive-website-design-master
-#Website created foor client as front-end developer
+#Website created for client as front-end developer
